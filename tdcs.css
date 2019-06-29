@@ -1,19 +1,50 @@
 @charset "UTF-8";
-.tdlogo{
+#manager{
+	position: absolute;
+	top: 30px;
+	left: 96%;
+}
+.logo{
 	position:relative;
 	left:60px;
-	top:30px	
+	top:30px
+}
+#hy{
+	position: absolute;
+	right:43%;
+	top:0px;
+	padding-top: 0px;
+	color: #ee5212;
+
 }
 
+#phone{
+	float:right;
+	position:relative;
+	top: 50px;
+	right: 56px;
+}
 
 h4{
 	text-align:center;
 	}
 #profile{
-	
-	float：left;
-	padding:20px;
+
 	padding-left:190px;
 	padding-right:190px;
-	
 }
+#yew{
+	margin-left: 100px;
+	color: #6f0e05;
+}
+.bt{
+	background-color: #ff411c;
+	color: #fbf8ff;
+	width:130px;
+	margin-left: 100px;
+}
+.zw{
+	margin-left: 100px;
+	width:830px;
+}
+
