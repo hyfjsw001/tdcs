@@ -48,3 +48,6 @@ h4{
 	width:830px;
 }
 
+html {
+	overflow-x:hidden;
+}
