@@ -29,22 +29,25 @@ h4{
 	text-align:center;
 	}
 #profile{
+	/*border:1px solid #F00;*/
 
-	padding-left:190px;
-	padding-right:190px;
+	padding-left:300px;
+	padding-right:300px;
 }
 #yew{
-	margin-left: 100px;
+	margin-left: 0px;
 	color: #6f0e05;
+	font-size:18px
+
 }
 .bt{
 	background-color: #ff411c;
 	color: #fbf8ff;
 	width:130px;
-	margin-left: 100px;
+	margin-left: 0px;
 }
 .zw{
-	margin-left: 100px;
+	margin-left: 0px;
 	width:830px;
 }
 
